@@ -7,8 +7,7 @@ Seeking a position that utilizes my experience as well as brings in professional
 Skills
 ------
 **Technologies**: Linux (most distros), OpenVZ, Docker.<br>
-**Languages**: C, Go, UNIX shell. Past experience in C++, Python, PHP, Perl,
-           SQL, MUMPS, Pascal, Basic, x86 asm.<br>
+**Languages**: C, Go, UNIX shell. Past experience in C++, Python, PHP, Perl, SQL, x86 assembler.<br>
 **Dev tools**: gdb, git, vim, GNU make, automake/autoconf/libtool.<br>
 **Packaging**: rpm (spec), Gentoo (ebuild).<br>
 **Documenting**: troff/man, LaTeX, asciidoc, HTML, mediawiki etc.<br>
