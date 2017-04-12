@@ -2,7 +2,8 @@
 
 Objective
 ---------
-Seeking a position that utilizes my experience as well as brings in professional challenges.
+~~Seeking a position that utilizes my experience as well as brings in professional challenges.~~
+Currently employed at AWS ECS and loving my job. Thanks for all the interst.
 
 Skills
 ------
